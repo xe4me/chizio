@@ -1,0 +1,8 @@
+{
+  "name": "chizio",
+  "app_id": "afd1ab7d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
